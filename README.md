@@ -1,4 +1,4 @@
-# This is a training fie
+# This is a training file
 
 ## test header
 
